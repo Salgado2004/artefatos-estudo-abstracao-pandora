@@ -3,7 +3,7 @@
 ![Representação Visual do Grafo Pandora](grafo_programa_desafio6.png)
 > O diagrama para o programa Pandora acima pode ser acessado no arquivo [desafio6.json](./desafio6.json).
 >
-> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://example.com). Basta importar o arquivo `desafio6.json` no editor para explorar a estrutura do grafo.
+> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://salgado2004.github.io/Pandora-web-IDE). Basta importar o arquivo `desafio6.json` no editor para explorar a estrutura do grafo.
 
 ## Explicação
 O desafio 6 consiste na criação de uma função `removerElemento(lista, elemento)` que remove todas as ocorrências de um determinado elemento de uma lista, utilizando uma abordagem recursiva. A função deve ser capaz de lidar com listas vazias e listas com qualquer quantidade de elementos, sem receber previamente essa quantidade.

@@ -3,7 +3,7 @@
 ![Representação Visual do Grafo Pandora](grafo_programa_desafio5.png)
 > O diagrama para o programa Pandora acima pode ser acessado no arquivo [desafio5.json](./desafio5.json).
 >
-> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://example.com). Basta importar o arquivo `desafio5.json` no editor para explorar a estrutura do grafo.
+> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://salgado2004.github.io/Pandora-web-IDE). Basta importar o arquivo `desafio5.json` no editor para explorar a estrutura do grafo.
 
 ## Explicação
 A partir da função `ehPotenciaDeDois(n)` do desafio anterior, a função `ehPotencia(n, base)` generaliza a verificação para qualquer base maior ou igual a 2. A lógica permanece semelhante, mas agora a função precisa lidar com diferentes bases.

@@ -3,7 +3,7 @@
 ![Representação Visual do Grafo Pandora](grafo_programa_desafio2.png)
 > O diagrama para o programa Pandora acima pode ser acessado no arquivo [desafio2.json](./desafio2.json).
 >
-> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://example.com). Basta importar o arquivo `desafio2.json` no editor para explorar a estrutura do grafo.
+> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://salgado2004.github.io/Pandora-web-IDE). Basta importar o arquivo `desafio2.json` no editor para explorar a estrutura do grafo.
 
 ## Explicação
 O desafio 2 propõe a criação de uma função `contarElementos(lista)` que retorna a quantidade de elementos em uma lista, utilizando uma abordagem recursiva. A função deve ser capaz de lidar com listas vazias e listas com qualquer quantidade de elementos, sem receber previamente essa quantidade.

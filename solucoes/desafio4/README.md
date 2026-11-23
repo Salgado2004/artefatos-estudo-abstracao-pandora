@@ -3,7 +3,7 @@
 ![Representação Visual do Grafo Pandora](grafo_programa_desafio4.png)
 > O diagrama para o programa Pandora acima pode ser acessado no arquivo [desafio4.json](./desafio4.json).
 >
-> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://example.com). Basta importar o arquivo `desafio4.json` no editor para explorar a estrutura do grafo.
+> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://salgado2004.github.io/Pandora-web-IDE). Basta importar o arquivo `desafio4.json` no editor para explorar a estrutura do grafo.
 
 ## Explicação
 O quarto desafio propõe a criação de uma função que verifica se um número é uma potência de dois. A função `ehPotenciaDeDois(n)` deve retornar "verdadeiro" para números que são potências de dois (como 1, 2, 4, 8, etc.) e "falso" para todos os outros casos, incluindo números negativos e zero.

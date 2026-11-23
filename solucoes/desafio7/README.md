@@ -3,7 +3,7 @@
 ![Representação Visual do Grafo Pandora](grafo_programa_desafio7.png)
 > O diagrama para o programa Pandora acima pode ser acessado no arquivo [desafio7.json](./desafio7.json).
 >
-> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://example.com). Basta importar o arquivo `desafio7.json` no editor para explorar a estrutura do grafo.
+> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://salgado2004.github.io/Pandora-web-IDE). Basta importar o arquivo `desafio7.json` no editor para explorar a estrutura do grafo.
 
 ## Explicação
 O desafio 7 é a continuação direta do desafio 6, mas com uma abordagem que envolve generalização. A função `filtrar(lista, teste)` é projetada para percorrer uma lista e aplicar um critério de seleção definido pela função `teste`. Essa função `teste` recebe um elemento da lista e retorna verdadeiro ou falso, determinando se o elemento deve ser incluído na nova lista resultante.

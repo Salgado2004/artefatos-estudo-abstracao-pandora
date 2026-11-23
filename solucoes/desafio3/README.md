@@ -3,7 +3,7 @@
 ![Representação Visual do Grafo Pandora](grafo_programa_desafio3.png)
 > O diagrama para o programa Pandora acima pode ser acessado no arquivo [desafio3.json](./desafio3.json).
 >
-> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://example.com). Basta importar o arquivo `desafio3.json` no editor para explorar a estrutura do grafo.
+> Para visualizar o grafo, você pode usar a [IDE Web de Pandora](https://salgado2004.github.io/Pandora-web-IDE). Basta importar o arquivo `desafio3.json` no editor para explorar a estrutura do grafo.
 
 ## Explicação
 Esse desafio propõe a criação de uma função `quantidadeCaminhos(n)` que retorna a quantidade de formas diferentes de subir uma escadaria com `n` degraus, considerando que em cada movimento é possível subir 1 ou 2 degraus.
